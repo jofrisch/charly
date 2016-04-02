@@ -62,7 +62,45 @@ header{
 		color: rgb(200,200,175);
 		font-size: 1.5em;
 	}
+
+	.txt-td{
+		font-family: verdana;
+	}
+
+	.chanteur{
+		padding: 2%;
+
+	}
+	.contact-ways{
+	 	background-color: rgba(0, 0, 0, 0.65);
+	 	margin: 3% 3% 1% 1%; 
+/*	 	padding: 1em;
+		border: 2px solid;
+		border-radius: 10px;*/
+		color: rgb(200,200,175);
+		font-family: 'Permanent Marker', cursive;
+		
+}
+
+
+
+	.glyph_contact{
+		margin: 0%;
+	}
+
+
+	.chansons>li:hover{
+		/*color: rgb(200,50,50);*/
+		background-color: rgba(200,200,175,0.5);
+	}
 	
+	.table>tbody>tr>td{
+		border:none;
+	}
+
+	td {height: 3em;}
+
+	.table{margin-left: 1em;}
 /* -------------------- Musiciens ------------------*/
 		
 	.img-groupe{
@@ -235,8 +273,8 @@ header{
 	.header-main{
 	  background-color: rgba(0, 0, 0, 0.5);
 	  margin: 25% 5% 25% 5%;
-	  font-family: 'Permanent Marker', cursive;
-	  text-align: center;
+	  font-family: 'Permanent Marker', cursive
+;	  text-align: center;
 	}
 
 	.glyphicon-sunglasses:before {
