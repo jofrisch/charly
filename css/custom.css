@@ -40,6 +40,12 @@ header{
   word-wrap: break-word;
 }  */
 
+    .jumbotron {
+      color: rgb(200,200,175);
+      background-color: transparent;
+      padding: 10px;    
+    }
+
  	.introCharly > h2{
 	  font-size: 4em;
 	  color: rgb(200,200,175);
@@ -310,7 +316,19 @@ header{
 	}
 
 	
+/********* MULTIMEDIA ************/
 
+
+    .frame-photo{
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 2em 1em 1em 0em;
+      margin: 2em;
+    }
+
+    .img-gallery{
+        max-height: 85%;
+        max-width: 85%;
+    }
 /* 
 .breadcrumb > li + li:before {
   content: none;
