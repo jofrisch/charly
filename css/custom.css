@@ -332,7 +332,7 @@ header{
 
     .frame-photo{
       background-color: rgba(0, 0, 0, 0.5);
-      padding: 2em 1em 1em 0em;
+      padding: 2em 1em 1em 1em;
       margin: 2em;
     }
 
