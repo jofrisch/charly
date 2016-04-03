@@ -163,7 +163,7 @@ header{
 	}
 
 	.commentaires{
-		background-color: rgba(200,200,175, 0.8);
+		background-color: rgba(200,200,175, 0.9);
 
 	}
 
@@ -341,6 +341,14 @@ header{
         max-width: 85%;
     }
 
+    .merci{
+
+    	color:rgb(145,145,135);
+    }
+
+    .merci>a{
+    	color: rgb(145,145,135);
+    }
 
 
 /* 
